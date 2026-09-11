@@ -12,6 +12,7 @@ Tenho interesse em desenvolvimento de software e estou desenvolvendo projetos pa
 - Git
 - GitHub
 - JavaScript — em aprendizado
+- Java - em aprendizado
 
 ## Projetos
 
